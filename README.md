@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##README
 ###此插件是关于跳转第三方地图进行导航的插件。使用者需要注意一下几点：
 - 开发过程中可以通过调取 map.coolMethod( ); 成功调取跳转地图的方法。当然需要开发人员传递目的地位置的经纬度。插件的plugin.xml中已经留好接口，如下：
@@ -54,3 +55,7 @@
         
 - 为了使用完地图之后跳转回到本应用，需要开发者在info.plist中添加appSchmem，需要添加URL Schemes的内容和对应的Identifier(填写项目名和对应的bounldId，否则不能跳回本项目)。            
 
+=======
+# cordova-plugin-map
+cordova-plugin-map
+>>>>>>> d1a2ca9f7bd7ae14e5e8f54ee1c0a39e69d68c00
